@@ -2,7 +2,7 @@
 - 👀 I’m interested in Customer Retention and Adoption 
 - 🌱 I’m currently learning Github! 
 - 💞️ I’m looking to collaborate on ways we can make the customer experience more engaging 
-- 📫 How to reach me aimee@dyneapp.ca
+- 📫 Reach me at: aimee@dyneapp.ca
 - ⚡ Fun fact: I'm passionate about DevOps and love staying stylish while keeping up with the latest tech trends! 
 
 <!---
